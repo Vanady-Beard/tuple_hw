@@ -13,12 +13,6 @@
 
 
 
-# def flight_itineraries(itineraries):    
-#     for i, itinerary in enumerate(itineraries):        
-#         traveler_name, origin, destination = itinerary        
-#     print(f"Itinerary {i+1}: {traveler_name} - From {origin} to {destination}")
-# Example usageitineraries = [("Alice", "New York", "London"), ("Bob", "Tokyo", "San Francisco")]flight_itineraries(itineraries)
-
 itinerary = [("Alice", "New York", "London"), ("Bob", "Tokyo", "San Francisco")]
 
 
